@@ -60,3 +60,4 @@ document.querySelector('#new-reservation').addEventListener('click', (e) => clea
 function cleanData(e) {
     changeContent('search-form-content');
 }
+changeContent('search-result-form-content');
